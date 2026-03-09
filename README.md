@@ -4,15 +4,13 @@ A compact Python project exploring simple bot‑based gameplay using `NextBot`�
 
 ## Overview
 
-`NexBot‑Game` consists of a handful of standalone Python scripts (`NextBot‑3‑4.py`, `NextBot‑3‑9.py`, `NextBot‑3‑10.py`) that implement incremental versions of a small autonomous agent.  
-Each script demonstrates different stages of the bot’s logic and behaviour, making the repository useful both as a quick demo and as a playground for experimenting with decision‑making code in Python.
+`NexBot‑Game` consists of a handful of standalone Python scripts.
 
 ## Repository contents
 
 - **`NextBot-3-4.py`** – initial prototype: basic movement and state tracking  
 - **`NextBot-3-9.py`** – expanded behaviour with obstacle handling and simple goals  
 - **`NextBot-3-10.py`** – latest iteration, refining the bot’s AI and adding utility functions  
-- **`README.md`** – this file
 
 > Scripts are intentionally independent; you can open any one directly and run it with a compatible Python interpreter.
 
@@ -47,8 +45,6 @@ If you add a new behaviour script, update this README accordingly.
 ## License
 
 Use or adapt the code however you like. No warranty expressed or implied.  
-(You can add a formal license here if you prefer, e.g. MIT, Apache 2.0, etc.)
-
 ---
 
 *Enjoy exploring the bot logic and feel free to iterate!*
