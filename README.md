@@ -44,7 +44,7 @@ If you add a new behaviour script, update this README accordingly.
 
 ## License
 
-Use or adapt the code however you like. No warranty expressed or implied.  
----
+Use or adapt the code however you like. No warranty expressed or implied.
 
+---
 *Enjoy exploring the bot logic and feel free to iterate!*
